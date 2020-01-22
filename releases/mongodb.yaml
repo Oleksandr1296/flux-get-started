@@ -15,7 +15,7 @@ spec:
     version: 7.6.3
   values:
     image:
-      repository: bitnami/mongodb
+      repository: oleksandr1296/kafka-consumer
       tag: 4.6.16
     usePassword: false
     persistence:
