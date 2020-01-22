@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: oleksandr1296/kafka-consumer
-      tag: 4.6.16
+      tag: latest
     usePassword: false
     persistence:
       enabled: false
